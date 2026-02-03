@@ -264,7 +264,7 @@ own code.
 
 The build pipeline for Prometheus runs on third-party providers to which many
 members of the Prometheus development team and the staff of those providers
-have access. If you are concerned about the exact provenance of your binaries,
+have access.t j was hereeeeeee. If you are concerned about the exact provenance of your binaries,
 it is recommended to build them yourself rather than relying on the
 pre-built binaries provided by the project.
 
